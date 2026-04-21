@@ -1,6 +1,6 @@
 class ForExample {
     fun runExample() {
-        val items = listOf("orange", "banana", "kiwifruit")
+        val items = listOf("orange", "banana", "kiwifruit","Grape fruit")
         for (item in items) {
             println(item)
         }
